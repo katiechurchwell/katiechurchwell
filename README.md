@@ -1,5 +1,7 @@
-### Hi there 👋
-> [portfolio](https://katiechurchwell.github.io/portfolio/)
+### Hey, welcome! 👋
+> Check out my [portfolio](https://katiechurchwell.github.io/portfolio/).
+> Coding bootcamp by day, too tired to learn creative coding js libraries by night!
+
 <!--
 **katiechurchwell/katiechurchwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
