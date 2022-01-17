@@ -1,3 +1,3 @@
 :pager: [Portfolio](https://katiechurchwell.github.io/portfolio/)
 
-Coding bootcamp by day, googling creative coding and plotter art by night!
+Coding bootcamp by day, coding bootcamp homework by night!
