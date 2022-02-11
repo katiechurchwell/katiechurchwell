@@ -1,3 +1,1 @@
-*Coding bootcamp by day, coding bootcamp homework by night!*
-
-![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katiechurchwell&show_icons=true&theme=dracula&hide_title=true)
+[![Katie's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katiechurchwell&layout=compact)](https://github.com/katiechurchwell/github-readme-stats)
