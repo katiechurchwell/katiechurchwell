@@ -1,4 +1,4 @@
-:wave: I'm Katie, a Portland based full stack developer.
+:wave: Hi I'm Katie, a Portland based full stack developer.
 <!-- 
 Tech stack:
 
