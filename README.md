@@ -1,4 +1,4 @@
-:wave: Hi I'm Katie, a Portland based full stack developer. 
+:wave: Hi I'm Katie, a PNW-based full stack developer. 
 
 I earned a Bachelors in International Business with a concentration in Marketing from the University of South Florida and am a recent grad of a Full Stack Web Development bootcamp at the University of Oregon.
 
