@@ -1,6 +1,6 @@
 :wave: Hi I'm Katie, a Portland based full stack developer. 
 
-I earned a Bachelors in International Business with a concentration in Marketing from the University of South Florida and am a recent grad of a Full Stack Web Development bootcamp at the University of Oregon. I'm currently partially hiking the PCT and will be back online in July.
+I earned a Bachelors in International Business with a concentration in Marketing from the University of South Florida and am a recent grad of a Full Stack Web Development bootcamp at the University of Oregon.
 
 <!-- 
 Tech stack:
