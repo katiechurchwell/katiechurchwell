@@ -1,5 +1,5 @@
 
-Hey, my name is Katie and I'm a Full Stack Developer with a background in conservation and education.
+→ Hey, my name is Katie and I'm a Full Stack Developer with a background in conservation and education.
 
 I earned a Bachelors in International Business with a concentration in Marketing from the University of South Florida and am a graduate of the Full Stack Web Development bootcamp at the University of Oregon.
 
