@@ -1,6 +1,4 @@
-Hey, my name is Katie and I'm a Full Stack Developer with a background in conservation and education.
-
-I earned a Bachelors in International Business with a concentration in Marketing from the University of South Florida and am a graduate of the Full Stack Web Development bootcamp at the University of Oregon.
+Hey, my name is Katie and I'm a Full Stack Developer with a background in education.
 
 Currently working on LearnPlatform, an Edtech Management Platform committed to expanding equitable access for all students to the teaching and technology that works best for them. Our tech stack includes React, Rails and Elixir.
 
